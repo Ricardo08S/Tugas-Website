@@ -252,3 +252,17 @@ html {
 .social-media i:hover {
   background-color: white;
 }
+
+.copyright{
+    width: 100%;
+    text-align: center;
+    padding: 5rem;
+    background: rgb(1, 148, 193);
+    font-weight: 300;
+    margin-top: 3rem;
+    font-size: 2rem;
+}
+
+.copyright i{
+    color: #ffde00;
+}
